@@ -1,0 +1,8 @@
+{
+  "name": "Crisp & Bold Kitchen",
+  "description": "A high-performance fast-food ordering interface with bold typography and vibrant food photography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
